@@ -67,23 +67,39 @@ CREATIVE CHALLENGE UNIT 7:
 
 # 3rd Deliverable 
 Για το τελικό παραδοτέο χρησιμοποίησα την σκηνή τησ πόλης που έχει το tutorial
+
 ![image](https://github.com/AggelosFyl/Digital-Storytelling-Individual-Assignment/assets/116358622/b1c5779c-f119-4c95-b40b-b1d67e4c30bb)
 .Ως χαρακτηρα χρησιμοποίησα το the tourist απο το tuturial όπου άλλαξα την κατεύθυνση που περπατάει χρησιμοποιώντας το έτοιμο animation που μας έχει δωθεί.
+
 ![image](https://github.com/AggelosFyl/Digital-Storytelling-Individual-Assignment/assets/116358622/63ad6985-ef58-4a24-bc33-1bb03f247466)
+
 ![image](https://github.com/AggelosFyl/Digital-Storytelling-Individual-Assignment/assets/116358622/d8c9bea6-9f5b-4df9-a9dc-01f85f7bd56e).
+
 Για να βγει το πλάνο μου χρηάστηκα συνολικά 7 virtual cameras απο το cinemachine τις οποιες τοποθέτησα έτσι ώστε να είναι ένα συνεχόμενο πλανο.Οι πρώτεσ δύο κάμερες δείχνουν την πολή απο ψηλά και στην συνέχεια φαινέται να κατεβαινουμε στον δρομο .Οι 3η μέχρι και την 6η κάμερα δείχνουν τον τουρίστα να περπατάει στο πεζοδρόμιο και η 7η κάμερα έιναι μέσα στο ταξι και δείχνει το point of view του οδηγού.
+
 ![image](https://github.com/AggelosFyl/Digital-Storytelling-Individual-Assignment/assets/116358622/37f15d9d-03ca-4c91-a46a-be305954ed6f)
+
 ![image](https://github.com/AggelosFyl/Digital-Storytelling-Individual-Assignment/assets/116358622/c0686c78-eba5-4bbd-8c37-9ae0279dac13)
+
 Για τα φώτισμό της σκηνής χρησιμοποίησα point lights και spot lights με χρώματα κόκκινο, μπλε ,κίτρινο και μωβ.
+
 ![image](https://github.com/AggelosFyl/Digital-Storytelling-Individual-Assignment/assets/116358622/78b77039-1f2b-4688-8d18-af21bba0b950)
+
 Όσο για το post-processing χρησιμοποίησα περιπου τισ ίδιες ρυθμίσεισ με το αυτές του tutorial για να δώσω στα φώτα μια λάμψη πιο έντονη και ελάχιστο το χρώμα του κόκκινου(Bloom,Tonemapping,Shadows).
 ![image](https://github.com/AggelosFyl/Digital-Storytelling-Individual-Assignment/assets/116358622/80cf3445-109c-492c-8211-d9ab84a2253d)
+
 Από visual effects έβαλα smoke particle και επίσης προσθεσα η ατμοσφαιρτα να έχει λιγο ομίχλη.
+
 ![image](https://github.com/AggelosFyl/Digital-Storytelling-Individual-Assignment/assets/116358622/e5aee16e-96ef-4110-9792-f4041502eb83)
+
 ![image](https://github.com/AggelosFyl/Digital-Storytelling-Individual-Assignment/assets/116358622/e48689ba-413c-4b34-a928-400182ace5e3)
+
 Για ήχο πρόσθεσα ένα background sound που παίζει σε όλη την διάρκεια του clip.
+
 ![image](https://github.com/AggelosFyl/Digital-Storytelling-Individual-Assignment/assets/116358622/f7eadd27-8d77-4d2a-a2da-c09d40a6aff0)
+
 Επίσης έβαλα και τίτλο αρχής  .
+
 ![image](https://github.com/AggelosFyl/Digital-Storytelling-Individual-Assignment/assets/116358622/a83df7ce-567e-46d9-b8ba-318c6edd6296)
 
 
